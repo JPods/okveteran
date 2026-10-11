@@ -10,7 +10,10 @@ viable communities.
 - `elections-2026.html`: Elections 2026 (Nov 3, 2026). Why State sovereignty over elections matters, seven questions for
   every candidate, and links to the OK Voter Portal. No endorsements.
 - `style.css`: shared styles (Oswald + Source Serif 4; light and dark).
-- `images/`: from ~/Documents/KeyDocs/ai_images (JPods AI infographics).
+- `why-blue.html`: Why Blue (last tab, blue). Bill's reasons for voting blue in 2026, with the BetrayedAmerica images.
+- `images/`: JPods infographics from ~/Documents/KeyDocs/ai_images.
+  - `images/betrayed/`: the images on Why Blue, from ~/Documents/Articles/BetrayedAmerica (JPEG, max 1100 px).
+  - `images/silence/`: the earlier SilenceBetraysAmerica.com set, including the Hern series. Kept but not shown on any page.
 - `CNAME`: www.okveteran.com for GitHub Pages.
 
 Sources for the content: DividedSovereignty.com (incl. /act, /2026-elections, /reportof2026), ClimateChangeRootCause.com,

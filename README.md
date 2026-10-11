@@ -18,4 +18,4 @@ viable communities.
 
 Sources for the content: DividedSovereignty.com (incl. /act, /2026-elections, /reportof2026), ClimateChangeRootCause.com,
 postRoads.com, TyrannyOfTheMajority.com, JPodsTX.com, TulsaMobilityCompany.com, and ~/Allie/readmes/11-bill-sovereignty-framework.md.
-Static; no build step. Repo: https://github.com/JPods/okveteran. Contact: bill.james@jpods.com
+Static; no build step. Repo: https://github.com/JPods/okveteran. No email address on the pages (Bill's rule); contact goes through dividedsovereignty.com/contact.
